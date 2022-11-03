@@ -1,0 +1,11 @@
+Game Core Requirements
+
+
+
+Turn Input:
+    Player decision (take card or leave counter)
+
+Output:
+    Whose turn 
+    Card in play
+    Counters on card
